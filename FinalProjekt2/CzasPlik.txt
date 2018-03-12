@@ -1,0 +1,1333 @@
+3,44354
+
+4,15196
+
+3,54378
+
+3,38406
+
+3,04408
+
+4,1432
+
+4,97427
+
+3,88177
+
+5,62253
+
+5,03507
+
+3,8615
+
+4,08729
+
+2,12242
+
+3,51966
+
+3,15527
+
+4,44896
+
+3,99515
+
+3,46622
+
+4,77254
+
+3,47169
+
+0,0809289
+
+0,0864099
+
+0,0763349
+
+0,0913395
+
+0,0873869
+
+0,0979928
+
+0,0745315
+
+0,0651138
+
+0,104509
+
+0,0681429
+
+0,000614399
+
+0,000492278
+
+0,000576852
+
+0,00108544
+
+0,000740313
+
+0,000621605
+
+0,00128379
+
+0,000548408
+
+0,000588989
+
+0,000694423
+
+0,00334961
+
+0,00247846
+
+0,00340347
+
+0,00346263
+
+0,00238061
+
+0,00262675
+
+0,00251524
+
+0,00345543
+
+0,00305265
+
+0,00303786
+
+0,57171
+
+0,564627
+
+0,568215
+
+0,575562
+
+0,564084
+
+0,56632
+
+0,561375
+
+0,567935
+
+0,591923
+
+0,584546
+
+0,651172
+
+0,701784
+
+0,655688
+
+0,777849
+
+0,783049
+
+0,559304
+
+0,543849
+
+0,560041
+
+1,32131
+
+0,903196
+
+0,585184
+
+0,573238
+
+0,577227
+
+0,56498
+
+0,572439
+
+0,577207
+
+0,571895
+
+0,573408
+
+0,571575
+
+0,576511
+
+0,018162
+
+0,0165888
+
+0,0158519
+
+0,01612
+
+0,0166104
+
+0,0158982
+
+0,0171717
+
+0,016081
+
+0,0165877
+
+0,016431
+
+0,0202805
+
+0,0489036
+
+0,0162782
+
+0,0207796
+
+0,0522596
+
+0,0248062
+
+0,0332106
+
+0,0280261
+
+0,0456704
+
+0,0528865
+
+0,0173678
+
+0,0176629
+
+0,0180546
+
+0,0166047
+
+0,0186478
+
+0,0156437
+
+0,0160753
+
+0,0162255
+
+0,0162467
+
+0,0200905
+
+0,0179192
+
+0,0194272
+
+0,0169669
+
+0,0592672
+
+0,0349794
+
+0,0159387
+
+0,038472
+
+0,0162933
+
+0,0324559
+
+0,0501839
+
+1,94116
+
+2,29913
+
+1,25658
+
+1,16676
+
+2,93932
+
+1,67727
+
+3,18409
+
+1,67241
+
+0,88614
+
+1,46999
+
+18,9869
+
+17,974
+
+23,5008
+
+21,6054
+
+26,551
+
+20,252
+
+19,7735
+
+21,1442
+
+20,331
+
+17,9621
+
+26,2204
+
+17,6379
+
+20,7894
+
+21,7059
+
+21,5982
+
+19,7704
+
+33,9201
+
+0,567559
+
+0,581136
+
+0,579901
+
+0,565789
+
+0,558247
+
+0,565883
+
+0,571457
+
+0,567832
+
+0,56298
+
+0,551819
+
+0,000521102
+
+0,000753967
+
+0,000672806
+
+0,000860918
+
+0,000611366
+
+0,000428184
+
+0,000420978
+
+0,000692527
+
+0,000571164
+
+0,000516551
+
+0,00481583
+
+0,00458562
+
+0,0044123
+
+0,00609659
+
+0,00424543
+
+0,00447943
+
+0,005632
+
+0,00835811
+
+0,00651302
+
+0,00464554
+
+0,0887846
+
+0,0960189
+
+0,0568225
+
+0,0796103
+
+0,0531471
+
+0,054911
+
+0,0531645
+
+0,0575048
+
+0,0539007
+
+0,0610076
+
+546,015
+
+173,084
+
+510,195
+
+291,101
+
+84,4173
+
+15,8816
+
+42,9206
+
+125,571
+
+80,28
+
+159,478
+
+157,714
+
+35,4867
+
+88,5418
+
+29,566
+
+16,1112
+
+15,9058
+
+16,0576
+
+16,3304
+
+15,8432
+
+16,2018
+
+16,1702
+
+16,1889
+
+15,883
+
+15,7007
+
+15,7576
+
+15,8513
+
+16,1785
+
+16,3783
+
+16,1205
+
+16,0941
+
+15,8762
+
+16,0071
+
+15,9059
+
+0,063494
+
+///////////////////
+5,91645e-05
+
+7,81275e-05
+
+0,000116053
+
+0,000111502
+
+5,27171e-05
+
+8,15408e-05
+
+5,00623e-05
+
+0,000215419
+
+5,27171e-05
+
+8,76089e-05
+/////
+0,000114536
+
+0,000121363
+
+0,000109606
+
+0,000134637
+
+0,000101642
+
+0,000202904
+
+9,7849e-05
+
+0,000100504
+
+0,000101642
+
+0,000128569
+///////
+0,000405808
+
+0,000798341
+
+0,000642086
+
+0,000762312
+
+0,000991384
+
+0,000544996
+
+0,000709215
+
+0,00060947
+
+0,000442596
+
+0,00095763
+//////
+0,00040998
+
+0,0010642
+
+0,000622365
+
+0,000490383
+
+0,000522999
+
+0,000520344
+
+0,000535514
+
+0,00047142
+
+0,000424012
+
+0,000839681
+////////
+0,00426136
+
+0,00601619
+
+0,0046922
+
+0,00386845
+
+0,00412596
+
+0,00482532
+
+0,00353584
+
+0,00729013
+
+0,00416503
+
+0,00811653
+
+0,00608522
+
+0,00479953
+
+0,00502215
+
+0,00450257
+
+0,00364544
+
+0,00662908
+
+0,00446275
+
+0,0041802
+
+0,00503012
+
+0,00564717
+//////////////////////
+5,49926e-05
+4,77867e-05
+5,65097e-05
+0,000103917
+4,93037e-05
+0,000101262
+0,000182045
+0,000110744
+6,06815e-05
+6,18193e-05
+
+8,53334e-05
+
+0,000238554
+
+0,000176735
+
+0,000153979
+
+0,000266619
+
+0,000760415
+
+0,000139188
+
+8,30578e-05
+
+0,000112261
+
+9,0643e-05
+////
+0,000672048
+0,000945494
+0,000728937
+0,000581026
+0,00104751
+0,000710732
+0,000474833
+0,000493037
+0,0004919
+0,000931841
+///////
+0,000935633
+0,000659153
+0,00155383
+0,000714146
+0,000613263
+0,000871538
+0,000499864
+0,000533618
+0,000461559
+0,000658015
+
+0,00724537
+
+0,0100147
+
+0,00412217
+
+0,0056248
+
+0,00601961
+
+0,00569989
+
+0,00880337
+
+0,00578826
+
+0,00475857
+
+0,00574768
+///////
+0,00426705
+0,00755068
+0,00447299
+0,00780137
+0,00459663
+0,0108248
+0,00701858
+0,00944204
+0,00617283
+0,00458563
+
+0,00209162
+
+0,00282245
+
+0,00216671
+
+0,0021796
+
+0,00190919
+
+0,00275532
+
+0,00271588
+
+0,00244926
+
+0,00335038
+
+0,00171008
+//
+0,0032366
+0,00365227
+0,00325367
+0,00238782
+0,00283079
+0,00277428
+0,00233131
+0,00289982
+0,00214813
+0,0029112
+
+0,0281767
+
+0,0132574
+
+0,0154306
+
+0,0128649
+
+0,0122023
+
+0,0135123
+
+0,0258143
+
+0,0231314
+
+0,0242453
+
+0,0123293
+//////
+0,014
+0,0253554
+0,0131474
+0,0128762
+0,0141889
+0,0218912
+0,0130905
+0,0126904
+0,0159809
+0,0137823
+
+0,107232
+
+0,115062
+
+0,161031
+
+0,118275
+
+0,163092
+
+0,162951
+
+0,108907
+
+0,304549
+
+0,123421
+
+0,279327
+/////
+0,11241
+0,117404
+0,105826
+0,122598
+0,111396
+0,133869
+0,114519
+0,11264
+0,121156
+0,192962
+
+0,000774448
+
+0,000832095
+
+0,00122122
+
+0,000724006
+
+0,00134523
+
+0,00130314
+
+0,00143929
+
+0,00120529
+
+0,00104827
+
+0,000893156
+
+0,00306935
+
+0,00172904
+
+0,00255735
+
+0,00329425
+
+0,00277694
+
+0,00254104
+
+0,00299539
+
+0,00271588
+
+0,00257593
+
+0,00399322
+/////
+0,00372736
+0,00291309
+0,00255052
+0,00438386
+0,00489662
+0,00368109
+0,00337427
+0,00370309
+0,00318426
+0,00410017
+
+Czas wykonanaia Algorytmu0.0156604
+
+Czas wykonanaia Algorytmu0.0156915
+
+Czas wykonanaia Algorytmu0.0196217
+
+Czas wykonanaia Algorytmu0.023937
+
+Czas wykonanaia Algorytmu0.0161876
+
+Czas wykonanaia Algorytmu0.0159847
+
+Czas wykonanaia Algorytmu0.0147524
+
+Czas wykonanaia Algorytmu0.0177729
+
+Czas wykonanaia Algorytmu0.0149497
+
+Czas wykonanaia Algorytmu0.0147805
+
+Czas wykonanaia Algorytmu0.0149326
+
+Czas wykonanaia Algorytmu0.0187434
+
+Czas wykonanaia Algorytmu0.0153866
+
+Czas wykonanaia Algorytmu0.0144953
+
+Czas wykonanaia Algorytmu0.0144411
+
+Czas wykonanaia Algorytmu0.0337769
+
+Czas wykonanaia Algorytmu0.0148275
+
+Czas wykonanaia Algorytmu0.0141157
+
+Czas wykonanaia Algorytmu0.0144407
+
+Czas wykonanaia Algorytmu0.0144634
+
+Czas wykonanaia Algorytmu0.0155751
+
+Czas wykonanaia Algorytmu0.0165471
+
+Czas wykonanaia Algorytmu0.0157177
+
+Czas wykonanaia Algorytmu0.0164989
+
+Czas wykonanaia Algorytmu0.0138244
+
+Czas wykonanaia Algorytmu0.0148886
+
+Czas wykonanaia Algorytmu0.0141039
+
+Czas wykonanaia Algorytmu0.0151818
+
+Czas wykonanaia Algorytmu0.013981
+
+Czas wykonanaia Algorytmu0.0163988
+
+Czas wykonanaia Algorytmu0.0207698
+
+Czas wykonanaia Algorytmu0.0139044
+
+Czas wykonanaia Algorytmu0.0151465
+
+Czas wykonanaia Algorytmu0.0127336
+
+Czas wykonanaia Algorytmu0.0142264
+
+Czas wykonanaia Algorytmu0.0136784
+
+Czas wykonanaia Algorytmu0.0142632
+
+Czas wykonanaia Algorytmu0.0151412
+
+Czas wykonanaia Algorytmu0.015269
+
+Czas wykonanaia Algorytmu0.0163385
+
+Czas wykonanaia Algorytmu0.0167276
+
+Czas wykonanaia Algorytmu0.0151146
+
+Czas wykonanaia Algorytmu0.0154006
+
+Czas wykonanaia Algorytmu0.0161803
+
+Czas wykonanaia Algorytmu0.0242339
+
+Czas wykonanaia Algorytmu0.0146356
+
+Czas wykonanaia Algorytmu0.0150115
+
+Czas wykonanaia Algorytmu0.0160848
+
+Czas wykonanaia Algorytmu0.013111
+
+Czas wykonanaia Algorytmu0.0158227
+
+Czas wykonanaia Algorytmu0.136289
+
+Czas wykonanaia Algorytmu0.319028
+
+Czas wykonanaia Algorytmu0.26484
+
+Czas wykonanaia Algorytmu0.136537
+
+Czas wykonanaia Algorytmu0.128672
+
+Czas wykonanaia Algorytmu0.274557
+
+Czas wykonanaia Algorytmu0.220521
+
+Czas wykonanaia Algorytmu0.132711
+
+Czas wykonanaia Algorytmu0.19014
+
+Czas wykonanaia Algorytmu0.243881
+
+Czas wykonanaia Algorytmu0.1371
+
+Czas wykonanaia Algorytmu0.148773
+
+Czas wykonanaia Algorytmu0.221776
+
+Czas wykonanaia Algorytmu0.129121
+
+Czas wykonanaia Algorytmu0.188201
+
+Czas wykonanaia Algorytmu0.129706
+
+Czas wykonanaia Algorytmu0.133024
+
+Czas wykonanaia Algorytmu0.143768
+
+Czas wykonanaia Algorytmu0.13306
+
+Czas wykonanaia Algorytmu0.128796
+
+Czas wykonanaia Algorytmu0.451432
+
+Czas wykonanaia Algorytmu0.502904
+
+Czas wykonanaia Algorytmu0.616329
+
+Czas wykonanaia Algorytmu0.696294
+
+Czas wykonanaia Algorytmu0.50253
+
+Czas wykonanaia Algorytmu1.06229
+
+Czas wykonanaia Algorytmu0.565265
+
+Czas wykonanaia Algorytmu0.411932
+
+Czas wykonanaia Algorytmu0.520953
+
+Czas wykonanaia Algorytmu0.637228
+
+Czas wykonanaia Algorytmu0.615294
+
+Czas wykonanaia Algorytmu0.492484
+
+Czas wykonanaia Algorytmu0.267392
+
+Czas wykonanaia Algorytmu0.735736
+
+Czas wykonanaia Algorytmu0.410457
+
+Czas wykonanaia Algorytmu0.492745
+
+Czas wykonanaia Algorytmu0.494969
+
+Czas wykonanaia Algorytmu0.476331
+
+Czas wykonanaia Algorytmu0.65983
+
+Czas wykonanaia Algorytmu0.510632
+
+Czas wykonanaia Algorytmu0.884568
+
+Czas wykonanaia Algorytmu0.438949
+
+Czas wykonanaia Algorytmu0.71882
+
+Czas wykonanaia Algorytmu0.919735
+
+Czas wykonanaia Algorytmu0.553318
+
+Czas wykonanaia Algorytmu0.643366
+
+Czas wykonanaia Algorytmu0.754081
+
+Czas wykonanaia Algorytmu0.894436
+
+Czas wykonanaia Algorytmu0.656518
+
+Czas wykonanaia Algorytmu0.422298
+
+Czas wykonanaia Algorytmu2.62658
+
+Czas wykonanaia Algorytmu2.06773
+
+Czas wykonanaia Algorytmu1.87754
+
+Czas wykonanaia Algorytmu1.85278
+
+Czas wykonanaia Algorytmu1.85669
+
+Czas wykonanaia Algorytmu2.1117
+
+Czas wykonanaia Algorytmu1.96017
+
+Czas wykonanaia Algorytmu1.91362
+
+Czas wykonanaia Algorytmu1.94868
+
+Czas wykonanaia Algorytmu2.37649
+
+Czas wykonanaia Algorytmu1.89187
+
+Czas wykonanaia Algorytmu1.96771
+
+Czas wykonanaia Algorytmu1.87859
+
+Czas wykonanaia Algorytmu2.09115
+
+Czas wykonanaia Algorytmu2.06324
+
+Czas wykonanaia Algorytmu2.57431
+
+Czas wykonanaia Algorytmu2.68754
+
+Czas wykonanaia Algorytmu3.09903
+
+Czas wykonanaia Algorytmu1.74002
+
+Czas wykonanaia Algorytmu1.85008
+
+Czas wykonanaia Algorytmu16.3624
+
+Czas wykonanaia Algorytmu16.87
+
+Czas wykonanaia Algorytmu28.1962
+
+Czas wykonanaia Algorytmu28.4986
+
+Czas wykonanaia Algorytmu16.0471
+
+Czas wykonanaia Algorytmu16.5285
+
+Czas wykonanaia Algorytmu28.5589
+
+Czas wykonanaia Algorytmu16.4465
+
+Czas wykonanaia Algorytmu16.4428
+
+Czas wykonanaia Algorytmu16.0281
+
+Czas wykonanaia Algorytmu16.2949
+
+Czas wykonanaia Algorytmu16.0553
+
+Czas wykonanaia Algorytmu16.5736
+
+Czas wykonanaia Algorytmu16.4455
+
+Czas wykonanaia Algorytmu16.8984
+
+Czas wykonanaia Algorytmu16.2017
+
+Czas wykonanaia Algorytmu35.6529
+
+Czas wykonanaia Algorytmu22.3194
+
+Czas wykonanaia Algorytmu16.0821
+
+Czas wykonanaia Algorytmu16.4713
+
+Czas wykonanaia Algorytmu65.0797
+
+Czas wykonanaia Algorytmu65.0579
+
+Czas wykonanaia Algorytmu64.6245
+
+Czas wykonanaia Algorytmu64.8202
+
+Czas wykonanaia Algorytmu65.1235
+
+Czas wykonanaia Algorytmu66.512
+
+Czas wykonanaia Algorytmu64.5942
+
+Czas wykonanaia Algorytmu64.3738
+
+Czas wykonanaia Algorytmu66.4999
+
+Czas wykonanaia Algorytmu64.8213
+
+Czas wykonanaia Algorytmu66.0484
+
+Czas wykonanaia Algorytmu65.5991
+
+Czas wykonanaia Algorytmu65.484
+
+Czas wykonanaia Algorytmu66.318
+
+Czas wykonanaia Algorytmu64.584
+
+Czas wykonanaia Algorytmu65.7217
+
+Czas wykonanaia Algorytmu120.128
+
+Czas wykonanaia Algorytmu65.1277
+
+Czas wykonanaia Algorytmu64.7069
+
+Czas wykonanaia Algorytmu64.6767
+
+Czas wykonanaia Algorytmu8.5555
+
+Czas wykonanaia Algorytmu8.34673
+
+Czas wykonanaia Algorytmu8.63198
+
+Czas wykonanaia Algorytmu9.52178
+
+Czas wykonanaia Algorytmu8.65919
+
+Czas wykonanaia Algorytmu9.62911
+
+Czas wykonanaia Algorytmu9.12545
+
+Czas wykonanaia Algorytmu8.29892
+
+Czas wykonanaia Algorytmu9.05317
+
+Czas wykonanaia Algorytmu8.95344
+
+Czas wykonanaia Algorytmu8.00973
+
+Czas wykonanaia Algorytmu8.87689
+
+Czas wykonanaia Algorytmu8.44889
+
+Czas wykonanaia Algorytmu9.99693
+
+Czas wykonanaia Algorytmu8.88842
+
+Czas wykonanaia Algorytmu8.43996
+
+Czas wykonanaia Algorytmu8.29513
+
+Czas wykonanaia Algorytmu8.02217
+
+Czas wykonanaia Algorytmu8.63676
+
+Czas wykonanaia Algorytmu9.21805
+
+Czas wykonanaia Algorytmu3.31213
+
+Czas wykonanaia Algorytmu3.24531
+
+Czas wykonanaia Algorytmu2.70619
+
+Czas wykonanaia Algorytmu3.36761
+
+Czas wykonanaia Algorytmu3.67587
+
+Czas wykonanaia Algorytmu3.22933
+
+Czas wykonanaia Algorytmu4.07618
+
+Czas wykonanaia Algorytmu3.45263
+
+Czas wykonanaia Algorytmu3.5544
+
+Czas wykonanaia Algorytmu3.21102
+
+Czas wykonanaia Algorytmu2.83889
+
+Czas wykonanaia Algorytmu2.65466
+
+Czas wykonanaia Algorytmu2.61754
+
+Czas wykonanaia Algorytmu3.22112
+
+Czas wykonanaia Algorytmu3.15403
+
+Czas wykonanaia Algorytmu3.70982
+
+Czas wykonanaia Algorytmu2.62776
+
+Czas wykonanaia Algorytmu2.74215
+
+Czas wykonanaia Algorytmu2.9447
+
+Czas wykonanaia Algorytmu2.79317
+
+Czas wykonanaia Algorytmu7.168e-05
+
+Czas wykonanaia Algorytmu8.76089e-05
+
+Czas wykonanaia Algorytmu8.9126e-05
+
+Czas wykonanaia Algorytmu0.000233624
+
+Czas wykonanaia Algorytmu7.39556e-05
+
+Czas wykonanaia Algorytmu8.34371e-05
+
+Czas wykonanaia Algorytmu9.48149e-05
+
+Czas wykonanaia Algorytmu8.22993e-05
+
+Czas wykonanaia Algorytmu0.000105813
+
+Czas wykonanaia Algorytmu9.02638e-05
+
+Czas wykonanaia Algorytmu8.79882e-05
+
+Czas wykonanaia Algorytmu0.000157013
+
+Czas wykonanaia Algorytmu8.30578e-05
+
+Czas wykonanaia Algorytmu5.72682e-05
+
+Czas wykonanaia Algorytmu6.48534e-05
+
+Czas wykonanaia Algorytmu0.000103538
+
+Czas wykonanaia Algorytmu6.97838e-05
+
+Czas wykonanaia Algorytmu5.04415e-05
+
+Czas wykonanaia Algorytmu5.46134e-05
+
+Czas wykonanaia Algorytmu6.63704e-05
+
+Czas wykonanaia Algorytmu8.11615e-05
+
+Czas wykonanaia Algorytmu0.000118329
+
+Czas wykonanaia Algorytmu0.000113778
+
+Czas wykonanaia Algorytmu0.000132741
+
+Czas wykonanaia Algorytmu0.0005943
+
+Czas wykonanaia Algorytmu4.85452e-05
+
+Czas wykonanaia Algorytmu6.90252e-05
+
+Czas wykonanaia Algorytmu8.0403e-05
+
+Czas wykonanaia Algorytmu8.87467e-05
+
+Czas wykonanaia Algorytmu0.000252587
+
+Czas wykonanaia Algorytmu7.58519e-05
+
+Czas wykonanaia Algorytmu0.000226039
+
+Czas wykonanaia Algorytmu5.27171e-05
+
+Czas wykonanaia Algorytmu0.000123259
+
+Czas wykonanaia Algorytmu4.85452e-05
+
+Czas wykonanaia Algorytmu0.000125156
+
+Czas wykonanaia Algorytmu9.51941e-05
+
+Czas wykonanaia Algorytmu7.24386e-05
+
+Czas wykonanaia Algorytmu0.000205179
+
+Czas wykonanaia Algorytmu0.000237796
+
+Czas wykonanaia Algorytmu0.000694424
+
+Czas wykonanaia Algorytmu0.000658774
+
+Czas wykonanaia Algorytmu0.00056358
+
+Czas wykonanaia Algorytmu0.000695562
+
+Czas wykonanaia Algorytmu0.000423254
+
+Czas wykonanaia Algorytmu0.000424012
+
+Czas wykonanaia Algorytmu0.000442596
+
+Czas wykonanaia Algorytmu0.000382673
+
+Czas wykonanaia Algorytmu0.000456249
+
+Czas wykonanaia Algorytmu0.000859402
+
+Czas wykonanaia Algorytmu1.98595
+
+Czas wykonanaia Algorytmu8.64712e-05
+
+Czas wykonanaia Algorytmu7.66104e-05
+
+Czas wykonanaia Algorytmu6.52326e-05
+
+Czas wykonanaia Algorytmu0.000100883
+
+Czas wykonanaia Algorytmu0.000172942
+
+Czas wykonanaia Algorytmu0.000133879
+
+Czas wykonanaia Algorytmu9.55734e-05
+
+Czas wykonanaia Algorytmu4.55111e-05
+
+Czas wykonanaia Algorytmu7.35763e-05
+
+Czas wykonanaia Algorytmu4.8166e-05
+
+Czas wykonanaia Algorytmu1.787
+
+Czas wykonanaia Algorytmu2.02711
+
+Czas wykonanaia Algorytmu2.02485
+
+Czas wykonanaia Algorytmu1.98956
+
+Czas wykonanaia Algorytmu2.12264
+
+Czas wykonanaia Algorytmu2.05872
+
+Czas wykonanaia Algorytmu2.1637
+
+Czas wykonanaia Algorytmu2.09554
+
+Czas wykonanaia Algorytmu2.00648
+
+Czas wykonanaia Algorytmu1.99669
+

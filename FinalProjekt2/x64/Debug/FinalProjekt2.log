@@ -1,0 +1,10 @@
+﻿  TSP.cpp
+c:\users\mac\source\repos\finalprojekt2\finalprojekt2\tsp.cpp(76): warning C4101: bufor: неиспользованная локальная переменная
+  Timer.cpp
+  Main.cpp
+c:\users\mac\source\repos\finalprojekt2\finalprojekt2\main.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\mac\source\repos\finalprojekt2\finalprojekt2\main.cpp(5): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\mac\source\repos\finalprojekt2\finalprojekt2\main.cpp(56): warning C4566: символ, представленный универсальным именем символа "\u0105", невозможно представить в текущей кодовой странице (1251)
+c:\users\mac\source\repos\finalprojekt2\finalprojekt2\main.cpp(73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  FinalProjekt2.vcxproj -> C:\Users\MAC\source\repos\FinalProjekt2\x64\Debug\FinalProjekt2.exe

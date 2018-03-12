@@ -1,0 +1,3 @@
+﻿  TSP.cpp
+c:\users\mac\source\repos\finalprojekt2\finalprojekt2\tsp.cpp(76): warning C4101: bufor: неиспользованная локальная переменная
+  FinalProjekt2.vcxproj -> C:\Users\MAC\source\repos\FinalProjekt2\Debug\FinalProjekt2.exe
